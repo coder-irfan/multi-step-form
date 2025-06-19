@@ -25,8 +25,8 @@ function StepLayout( {children, currentStep} ) {
         lg:max-w-[58.75rem]">
 
           <div className="image relative">
-            <img src="/images/bg-sidebar-mobile.svg" alt="bg-sidebar" className="w-screen h-[10.75rem] object-cover md:h-[13.125rem] lg:hidden" />
-            <img src="/images/bg-sidebar-desktop.svg" alt="bg-sidebar" className="hidden lg:flex flex-row lg:flex-col max-w-full w-[17.125rem] h-full object-cover rounded-xl" />
+            <img src="images/bg-sidebar-mobile.svg" alt="bg-sidebar" className="w-screen h-[10.75rem] object-cover md:h-[13.125rem] lg:hidden" />
+            <img src="images/bg-sidebar-desktop.svg" alt="bg-sidebar" className="hidden lg:flex flex-row lg:flex-col max-w-full w-[17.125rem] h-full object-cover rounded-xl" />
             <div className="buttons flex flex-row lg:flex-col gap-4 sm:gap-5 md:gap-6 lg:gap-[1.9275rem] absolute top-8 left-1/2 -translate-x-1/2 lg:translate-x-0
               lg:top-[2.4625rem] lg:left-8">
               {steps.map((step) => (

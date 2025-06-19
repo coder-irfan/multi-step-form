@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Mohammad-Irfan-Noorzada.github.io/multi-step-form",
   "name": "multi-step-form-main",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "Vite build && gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
@@ -26,6 +28,7 @@
     "globals": "^16.0.0",
     "postcss": "^8.5.4",
     "tailwindcss": "^3.4.17",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vite-plugin-gh-pages": "^1.0.1"
   }
 }
