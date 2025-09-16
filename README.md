@@ -3,7 +3,7 @@
 This is a responsive, interactive multi-step form built with **React** and **Tailwind CSS**, based on the [Frontend Mentor Advanced Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
 
 👉 **Live Demo:**  
-[https://mohammad-irfan-noorzada.github.io/multi-step-form/](https://mohammad-irfan-noorzada.github.io/multi-step-form/)
+[https://mohammad-irfan-noorzada.github.io/multi-step-form/](https://coder-irfan.github.io/multi-step-form/)
 
 ## Features
 
